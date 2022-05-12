@@ -28,6 +28,8 @@ In this project we are using  action.js file inside js folder inside static fold
        {  static ---->   js  ----->    action.js }  
 
 In this project we are using  html files inside template folder
+
+
       {  template ---->      add-bootstrap.html   }  
        { template ---->     add-css-js-demo.html }
         { template ---->       helloworld.html  }        
