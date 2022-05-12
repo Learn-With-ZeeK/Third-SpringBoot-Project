@@ -22,10 +22,14 @@ Configuring all application level configuration in application.properties
 
 
 In this project we are using  main.css file inside css folder inside static folder
+        
+        
         { static ---->   css  ----->  main.css  }
 
 In this project we are using  action.js file inside js folder inside static folder
-       {  static ---->   js  ----->    action.js }  
+      
+      
+      {  static ---->   js  ----->    action.js }  
 
 In this project we are using  html files inside template folder
 
